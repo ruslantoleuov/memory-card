@@ -1,0 +1,25 @@
+:root {
+  --color-lime-200: #d9f99d;
+  --color-lime-500: #84cc16;
+  --color-lime-900: #365314;
+  --card-box-shadow-color: rgba(54, 83, 20, 0.2);
+
+  box-sizing: border-box;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 62.5%;
+  color: #000;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  font-family: inherit;
+  color: inherit;
+}
+
+body {
+  font-size: 1.6rem;
+}
