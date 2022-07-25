@@ -1,0 +1,8 @@
+.score {
+  line-height: 1;
+}
+
+.score-point {
+  font-weight: bold;
+  font-size: 5rem;
+}

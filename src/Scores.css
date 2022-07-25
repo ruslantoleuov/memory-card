@@ -1,0 +1,7 @@
+.scores {
+  display: flex;
+  flex-direction: column;
+  font-size: 3rem;
+  justify-content: center;
+  align-items: flex-end;
+}

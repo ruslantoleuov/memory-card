@@ -1,0 +1,28 @@
+.App {
+  min-height: 100vh;
+  background-color: var(--color-lime-500);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 2rem;
+}
+
+.info-text {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.info-text-left {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+h1 {
+  color: var(--color-lime-900);
+  line-height: 1;
+  font-size: 6rem;
+}
